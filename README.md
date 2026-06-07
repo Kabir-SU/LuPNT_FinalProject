@@ -1,6 +1,6 @@
 # Lunar PNT: Cislunar Navigation Simulation
 
-A high-fidelity simulation framework for spacecraft trajectory design and navigation filtering during Earth-to-Lunar transfers, developed for Stanford AA278.
+A simulation framework for spacecraft trajectory design and navigation filtering during Earth-to-Lunar transfers, developed for Stanford AA278.
 
 The project covers three mission scenarios (impulsive, optimal impulsive, and low-thrust spiral), a GPS/Galileo pseudorange measurement generator, and a UDU-factorized Extended Kalman Filter (EKF) for onboard state estimation.
 
